@@ -1,2 +1,3 @@
 # signsign-up-in-form
-Sign in &amp; Sign up Form
+Responsive Login And Registration Form 
+Using HTML & CSS & JS | Sliding Sign In & Sign Up Form
